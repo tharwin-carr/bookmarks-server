@@ -1,0 +1,8 @@
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"store.bookmarks.split is not a function","level":"error"}
+{"message":"id is not defined","level":"error"}
+{"message":"id is not defined","level":"error"}
+{"message":"Bookmark with id aba4b458-391a-466b-93bb-41dafdf64de7 not found.","level":"error"}
+{"message":"logger.error(...).status is not a function","level":"error"}
+{"message":"Bookmark with id aba4b458-391a-466b-93bb-41dafdf64de7 not found.","level":"error"}
+{"message":"Bookmark with id 2f7fbb6c-314f-4b82-8e51-1e5e1b8c36eb deleted.","level":"info"}

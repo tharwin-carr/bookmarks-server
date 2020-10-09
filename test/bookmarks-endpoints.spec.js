@@ -61,8 +61,10 @@ describe.only('Bookmarks Endpoints', () => {
                         error: { message: `Bookmark Not Found` }
                     })
             })
+        })
 
             context('Given there are bookmarks in the database', () => {
+                const testBookmarks = makeBookmarksArray()
                 beforeEach('insert bookmarks', () => {
                     return db
                        .into('bookmarks')

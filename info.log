@@ -6,3 +6,19 @@
 {"message":"logger.error(...).status is not a function","level":"error"}
 {"message":"Bookmark with id aba4b458-391a-466b-93bb-41dafdf64de7 not found.","level":"error"}
 {"message":"Bookmark with id 2f7fbb6c-314f-4b82-8e51-1e5e1b8c36eb deleted.","level":"info"}
+{"message":"Unathorized request to path: /","level":"error"}
+{"message":"Unathorized request to path: /","level":"error"}
+{"message":"Unathorized request to path: /","level":"error"}
+{"message":"Unathorized request to path: /bookmarks","level":"error"}
+{"message":"Unathorized request to path: /","level":"error"}
+{"message":"Unathorized request to path: /bookmarks","level":"error"}
+{"message":"Unathorized request to path: /","level":"error"}
+{"message":"Unathorized request to path: /","level":"error"}
+{"message":"Unathorized request to path: /","level":"error"}
+{"message":"Unathorized request to path: /","level":"error"}
+{"message":"Unathorized request to path: /","level":"error"}
+{"message":"Unathorized request to path: /","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}

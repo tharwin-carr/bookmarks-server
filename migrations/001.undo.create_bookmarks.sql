@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS;
+DROP TYPE IF EXISTS start_rating;

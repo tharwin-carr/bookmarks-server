@@ -1,8 +1,8 @@
 {
-  "name": "express-boilerpoint",
+  "name": "bookmarks-server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
     "test": "mocha --require test/setup.js",
     "dev": "nodemon src/server.js",
@@ -22,10 +22,10 @@
     "helmet": "^4.1.1",
     "knex": "^0.21.6",
     "morgan": "^1.10.0",
-    "pg": "^8.4.0",
-    "uuid": "^8.3.1",
+    "pg": "^8.4.1",
     "valid-url": "^1.0.9",
-    "winston": "^3.3.3"
+    "winston": "^3.3.3",
+    "xss": "^1.0.8"
   },
   "devDependencies": {
     "chai": "^4.2.0",
